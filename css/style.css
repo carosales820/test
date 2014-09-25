@@ -1,0 +1,13 @@
+/* notes for self: done through command forward slash */
+/* selector, property and value */
+/* syntax = punctuation, semantics = meaning (h1) */
+/* DOM = document object model */
+body{
+  background: black;
+}
+h1{
+  color : red;
+}
+h3{
+  color : red;
+}
